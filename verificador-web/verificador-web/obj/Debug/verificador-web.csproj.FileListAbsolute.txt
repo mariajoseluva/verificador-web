@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\verificador-web\verificador-web\bin\Debug\verificador-web.exe.config
+C:\Users\maria\source\repos\verificador-web\verificador-web\bin\Debug\verificador-web.exe
+C:\Users\maria\source\repos\verificador-web\verificador-web\bin\Debug\verificador-web.pdb
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador-web.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador_web.Form1.resources
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador_web.Properties.Resources.resources
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador-web.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador-web.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador-web.exe
+C:\Users\maria\source\repos\verificador-web\verificador-web\obj\Debug\verificador-web.pdb
